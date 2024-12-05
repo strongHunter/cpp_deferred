@@ -8,3 +8,4 @@ macro(compile_output_test name)
 endmacro(compile_output_test)
 
 compile_output_test(deferredTest)
+compile_output_test(storageTest)
